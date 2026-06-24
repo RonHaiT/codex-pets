@@ -18,13 +18,13 @@ A tiny black source-of-truth notebook for Codex builders: calm, evidence-first, 
 
 ## README Intro
 
-守源 Shouyuan is a small animated notebook mascot for Codex. It is built for people who work best with source-of-truth documents, clear boundaries, careful reviews, and low-noise execution.
+Shouyuan is a small animated notebook mascot for Codex. It is built for people who work best with source-of-truth documents, clear boundaries, careful reviews, and low-noise execution.
 
 ## Social Posts
 
 ### X / Twitter
 
-I made a Codex pet called 守源 Shouyuan, a tiny black notebook guardian for evidence-first work.
+I made a Codex pet called Shouyuan, a tiny black notebook guardian for evidence-first work.
 
 It has the full 9-state Codex spritesheet: idle, running, waiting, review, failed, and more.
 
@@ -32,7 +32,7 @@ Repo: https://github.com/RonHaiT/codex-pets
 
 ### LinkedIn
 
-I built a small Codex pet called 守源 Shouyuan.
+I built a small Codex pet called Shouyuan.
 
 It is a notebook-shaped mascot designed around a simple working principle: check the source, respect the boundary, and review before shipping.
 
@@ -40,13 +40,13 @@ The repo includes the upload-ready `pet.json`, `spritesheet.webp`, install instr
 
 https://github.com/RonHaiT/codex-pets
 
-### 微信 / 朋友圈
+### Short Community Post
 
-做了一个 Codex 小宠物，叫“守源 Shouyuan”。
+I made a Codex pet called Shouyuan.
 
-不是为了可爱而可爱，而是提醒自己：先看真源，先坐实证据，先守边界，再动手。
+It is a tiny black source-of-truth notebook for builders who want their workflow to stay evidence-first, boundary-aware, and review-ready.
 
-仓库里放了完整安装包、预览图、上传说明和校验结果，别人也可以直接拿去用。
+The repo includes the upload-ready package, install script, previews, and QA evidence.
 
 https://github.com/RonHaiT/codex-pets
 

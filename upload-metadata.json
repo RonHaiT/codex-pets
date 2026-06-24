@@ -2,13 +2,12 @@
   "codexPetsUrl": "https://codex-pets.net/#/upload",
   "kind": "object",
   "tags": [
-    "minimal",
     "animated",
-    "object",
     "mascot",
+    "minimal",
     "utility"
   ],
-  "displayName": "守源 Shouyuan",
+  "displayName": "Shouyuan",
   "shortName": "Shouyuan",
   "galleryDescription": "A tiny black source-of-truth notebook for Codex builders: calm, evidence-first, boundary-aware, and always ready for one last review before shipping.",
   "repository": "https://github.com/RonHaiT/codex-pets",

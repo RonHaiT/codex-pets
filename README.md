@@ -1,8 +1,8 @@
-# 守源 Shouyuan
+# Shouyuan
 
-守源 Shouyuan 是一个 Codex 自定义宠物：一个黑色小笔记本形态的“真源守门人”。
+Shouyuan is a custom Codex pet: a tiny black notebook guardian for source-first work.
 
-它适合给重视工程边界、文档真源和交付复核的人使用。放在 Codex 里，它的作用不是制造热闹，而是提醒自己：先看证据，再动手；先守边界，再写代码；先复核，再交付。
+It is made for builders who care about evidence, project boundaries, and careful review. Shouyuan keeps your Codex workspace calm while nudging every change toward real source docs, clear ownership, and one last review before shipping.
 
 Codex Pets listing copy:
 
@@ -14,7 +14,7 @@ Repository: [github.com/RonHaiT/codex-pets](https://github.com/RonHaiT/codex-pet
 
 ![Shouyuan contact sheet](assets/contact-sheet.png)
 
-## 快速安装
+## Install
 
 ```bash
 git clone https://github.com/RonHaiT/codex-pets.git
@@ -22,54 +22,54 @@ cd codex-pets
 ./scripts/install.sh
 ```
 
-安装后重启 Codex，宠物列表里应能看到 `守源 Shouyuan`。
+After installation, restart Codex. The pet list should show `Shouyuan`.
 
-也可以手动安装：
+Manual install:
 
 ```bash
 mkdir -p "$HOME/.codex/pets/shouyuan"
 cp pet.json spritesheet.webp "$HOME/.codex/pets/shouyuan/"
 ```
 
-## 上传到 codex-pets.net
+## Upload To codex-pets.net
 
-打开 [codex-pets.net 上传页](https://codex-pets.net/#/upload)，登录后上传：
+Open the [codex-pets.net upload page](https://codex-pets.net/#/upload), sign in, and upload:
 
 - `pet.json`
 - `spritesheet.webp`
 
-表单字段建议：
+Suggested fields:
 
 - Kind: `Object`
-- Tags: `minimal`, `animated`, `object`, `mascot`, `utility`
+- Tags: `animated`, `mascot`, `minimal`, `utility`
 
-详细步骤见 [docs/upload-to-codex-pets.md](docs/upload-to-codex-pets.md)。
+Detailed steps: [docs/upload-to-codex-pets.md](docs/upload-to-codex-pets.md).
 
-## 设计说明
+## Design Notes
 
-守源不是动物，也不是品牌 logo。它是一本小小的黑色笔记本，带暖色纸边和红色签条，用来表达：
+Shouyuan is not an animal and not a logo. It is a small black notebook with warm paper edges and a red bookmark tab, designed to represent:
 
-- evidence-first: 先坐实证据
-- source-of-truth: 尊重真源
-- boundary-aware: 不越过项目边界
-- review-ready: 交付前认真复核
-- calm by default: 克制，不制造噪音
+- evidence-first work
+- source-of-truth discipline
+- boundary-aware execution
+- review-ready delivery
+- calm, low-noise presence
 
-## 动作状态
+## Animation States
 
 | State | Meaning |
 | --- | --- |
-| `idle` | 安静待命，轻微呼吸和眨眼 |
-| `running-right` | 右向拖动移动 |
-| `running-left` | 左向拖动移动 |
-| `waving` | 友好打招呼 |
-| `jumping` | 轻微跳起 |
-| `failed` | 阻塞或失败 |
-| `waiting` | 等待用户确认 |
-| `running` | 正在处理任务 |
-| `review` | 专注复核结果 |
+| `idle` | Calm standby, subtle breathing and blinking |
+| `running-right` | Drag movement to the right |
+| `running-left` | Drag movement to the left |
+| `waving` | Friendly greeting |
+| `jumping` | Small jump |
+| `failed` | Blocked or failed state |
+| `waiting` | Waiting for user confirmation |
+| `running` | Working on a task |
+| `review` | Focused review |
 
-## 文件结构
+## Files
 
 ```text
 .
@@ -99,8 +99,8 @@ Validation summary:
 - `docs/validation.json`: no errors, no warnings
 - transparent RGB residue pixels: `0`
 
-完整说明见 [docs/qa.md](docs/qa.md)。
+Full QA notes: [docs/qa.md](docs/qa.md).
 
 ## License
 
-Use, fork, and adapt this pet for personal Codex setups. If you publish a modified version, rename it so people can distinguish your variant from the original `守源`.
+Use, fork, and adapt this pet for personal Codex setups. If you publish a modified version, rename it so people can distinguish your variant from the original `Shouyuan`.

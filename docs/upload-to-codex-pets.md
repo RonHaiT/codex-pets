@@ -1,31 +1,30 @@
 # Upload To Codex Pets
 
-这个仓库已经包含 codex-pets.net 上传需要的两个核心文件：
+This repository contains the two required files for codex-pets.net:
 
 - `pet.json`
 - `spritesheet.webp`
 
-## 上传步骤
+## Upload Steps
 
-1. 打开 [https://codex-pets.net/#/upload](https://codex-pets.net/#/upload)。
-2. 使用 Google 账号或站点支持的方式登录。
-3. 在 `pet.json` 字段选择仓库根目录的 `pet.json`。
-4. 在 `spritesheet.webp` 字段选择仓库根目录的 `spritesheet.webp`。
-5. Kind 选择 `Object`。
-6. Tags 建议选择：
-   - `minimal`
+1. Open [https://codex-pets.net/#/upload](https://codex-pets.net/#/upload).
+2. Sign in with Google or another supported login method.
+3. Choose the repository root `pet.json` in the `pet.json` field.
+4. Choose the repository root `spritesheet.webp` in the `spritesheet.webp` field.
+5. Set Kind to `Object`.
+6. Select these tags:
    - `animated`
-   - `object`
    - `mascot`
+   - `minimal`
    - `utility`
-7. 确认右侧预览正常后，点击 `Upload pet`。
+7. Check the preview, then click `Upload pet`.
 
-## 上传文案
+## Upload Copy
 
 Display name:
 
 ```text
-守源 Shouyuan
+Shouyuan
 ```
 
 Description:
@@ -46,11 +45,11 @@ Repository:
 https://github.com/RonHaiT/codex-pets
 ```
 
-## 注意事项
+## Notes
 
-- 不需要 GitHub 仓库才能上传到 codex-pets.net；站点上传走账号和表单。
-- GitHub 仓库的作用是让别人能复用、审查、下载和本地安装。
-- 站点当前上传表单不支持单独填写 GitHub URL；公开页主要展示 `pet.json` 里的 `displayName` 和 `description`，所以介绍要写进 `pet.json`。
-- `pet.json` 保持 Codex 本地兼容的最小 manifest；Kind 和 Tags 在上传表单里选择。
-- 如果站点提示 `pet.json` 无效，先确认 JSON 没有注释、尾逗号或手动改坏。
-- 如果站点预览空白，确认上传的是根目录的 `spritesheet.webp`，不是 contact sheet 或 GIF。
+- A GitHub repository is not required for codex-pets.net upload; the site uses the signed-in upload form.
+- The GitHub repository helps other users inspect, download, install, and fork the pet.
+- The current upload form does not provide a separate GitHub URL field. Public pages mainly display `displayName` and `description` from `pet.json`, so the public introduction must live in `pet.json`.
+- `pet.json` stays as the minimal Codex-compatible manifest. Kind and tags are selected in the upload form.
+- If the site says `pet.json` is invalid, check for comments, trailing commas, or accidental edits.
+- If the preview is blank, confirm you uploaded the root `spritesheet.webp`, not the contact sheet or a GIF preview.
