@@ -3,7 +3,7 @@
 ## Package
 
 - Pet id: `shouyuan`
-- Display name: `守源`
+- Display name: `守源 Shouyuan`
 - Manifest: `pet.json`
 - Spritesheet: `spritesheet.webp`
 - Format: WebP with alpha

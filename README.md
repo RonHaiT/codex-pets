@@ -1,8 +1,16 @@
 # 守源 Shouyuan
 
-守源是一个 Codex 自定义宠物：一个安静、克制的“真源守门”小笔记本。
+守源 Shouyuan 是一个 Codex 自定义宠物：一个黑色小笔记本形态的“真源守门人”。
 
-它适合放在 Codex 里提醒自己：先看证据，再动手；先守边界，再写代码；先复核，再交付。
+它适合给重视工程边界、文档真源和交付复核的人使用。放在 Codex 里，它的作用不是制造热闹，而是提醒自己：先看证据，再动手；先守边界，再写代码；先复核，再交付。
+
+Codex Pets listing copy:
+
+```text
+A tiny black source-of-truth notebook for Codex builders: calm, evidence-first, boundary-aware, and always ready for one last review before shipping.
+```
+
+Repository: [github.com/RonHaiT/codex-pets](https://github.com/RonHaiT/codex-pets)
 
 ![Shouyuan contact sheet](assets/contact-sheet.png)
 
@@ -14,7 +22,7 @@ cd codex-pets
 ./scripts/install.sh
 ```
 
-安装后重启 Codex，宠物列表里应能看到 `守源`。
+安装后重启 Codex，宠物列表里应能看到 `守源 Shouyuan`。
 
 也可以手动安装：
 

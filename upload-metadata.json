@@ -8,8 +8,10 @@
     "mascot",
     "utility"
   ],
-  "displayName": "守源",
+  "displayName": "守源 Shouyuan",
   "shortName": "Shouyuan",
+  "galleryDescription": "A tiny black source-of-truth notebook for Codex builders: calm, evidence-first, boundary-aware, and always ready for one last review before shipping.",
+  "repository": "https://github.com/RonHaiT/codex-pets",
   "uploadFiles": [
     "pet.json",
     "spritesheet.webp"

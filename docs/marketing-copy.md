@@ -2,11 +2,11 @@
 
 ## One-Liner
 
-守源 is a calm truth-source guardian for Codex users who prefer evidence, boundaries, and careful review over noisy shortcuts.
+Shouyuan is a tiny source-of-truth notebook for Codex builders who prefer evidence, boundaries, and careful review over noisy shortcuts.
 
 ## Short Description
 
-守源 is a compact notebook-shaped Codex pet. It watches your workflow with a quiet reminder: check the source, respect the boundary, and review before you ship.
+Shouyuan is a compact notebook-shaped Codex pet for source-first work. It keeps the desk calm while nudging every change toward real docs, clear ownership, and one last review before shipping.
 
 ## GitHub Repository Description
 
@@ -14,17 +14,17 @@ An evidence-first Codex pet: a quiet notebook guardian with a full 9-state anima
 
 ## Codex Pets Gallery Description
 
-A compact truth-source guardian for Codex: calm, evidence-first, and built for careful review.
+A tiny black source-of-truth notebook for Codex builders: calm, evidence-first, boundary-aware, and always ready for one last review before shipping.
 
 ## README Intro
 
-守源 is a small animated notebook mascot for Codex. It is built for people who work best with clear source-of-truth boundaries, careful reviews, and low-noise execution.
+守源 Shouyuan is a small animated notebook mascot for Codex. It is built for people who work best with source-of-truth documents, clear boundaries, careful reviews, and low-noise execution.
 
 ## Social Posts
 
 ### X / Twitter
 
-I made a Codex pet called 守源, a small notebook guardian for evidence-first work.
+I made a Codex pet called 守源 Shouyuan, a tiny black notebook guardian for evidence-first work.
 
 It has the full 9-state Codex spritesheet: idle, running, waiting, review, failed, and more.
 
@@ -32,7 +32,7 @@ Repo: https://github.com/RonHaiT/codex-pets
 
 ### LinkedIn
 
-I built a small Codex pet called 守源.
+I built a small Codex pet called 守源 Shouyuan.
 
 It is a notebook-shaped mascot designed around a simple working principle: check the source, respect the boundary, and review before shipping.
 
@@ -42,7 +42,7 @@ https://github.com/RonHaiT/codex-pets
 
 ### 微信 / 朋友圈
 
-做了一个 Codex 小宠物，叫“守源”。
+做了一个 Codex 小宠物，叫“守源 Shouyuan”。
 
 不是为了可爱而可爱，而是提醒自己：先看真源，先坐实证据，先守边界，再动手。
 
@@ -52,7 +52,7 @@ https://github.com/RonHaiT/codex-pets
 
 ## Product Hunt-Style Blurb
 
-守源 is a tiny animated guardian for Codex. It is not a mascot for hype; it is a mascot for disciplined work: source-first, boundary-aware, and review-ready.
+Shouyuan is a tiny animated source-of-truth guardian for Codex. It is not a mascot for hype; it is a mascot for disciplined work: source-first, boundary-aware, and review-ready.
 
 ## Suggested Tags
 
