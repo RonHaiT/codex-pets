@@ -1,0 +1,17 @@
+{
+  "codexPetsUrl": "https://codex-pets.net/#/upload",
+  "kind": "object",
+  "tags": [
+    "minimal",
+    "animated",
+    "object",
+    "mascot",
+    "utility"
+  ],
+  "displayName": "守源",
+  "shortName": "Shouyuan",
+  "uploadFiles": [
+    "pet.json",
+    "spritesheet.webp"
+  ]
+}
